@@ -60,6 +60,6 @@
     "ora": "^9.0.0",
     "prettier": "^3.5.3",
     "typescript": "^6.0.3",
-    "wasm-pack": "^0.14.0"
+    "wasm-pack": "^0.15.0"
   }
 }
